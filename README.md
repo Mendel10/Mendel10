@@ -16,3 +16,5 @@ Rád sportuji a trávím čas s kamarády.
 
 ![Sport](images/sport.jpg)
 
+## Příroda
+
