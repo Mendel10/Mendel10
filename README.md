@@ -22,3 +22,5 @@ Rád chodím na procházky a poznávám nová místa.
 
 ![Příroda](images/nature.jpg)
 
+Inspirace na výlety: [Kudy z nudy](https://www.kudyznudy.cz/)
+
