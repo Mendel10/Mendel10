@@ -12,3 +12,5 @@ Více informací: [Minecraft](https://www.minecraft.net/)
 
 ## Sport 
 
+Rád sportuji a trávím čas s kamarády.
+
