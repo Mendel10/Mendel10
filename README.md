@@ -6,3 +6,5 @@ Vítejte na mém projektu! Tady jsou moje oblíbené koníčky.
 
 Rád hraji počítačové hry.
 
+![Hry](images/games.jpg)
+
