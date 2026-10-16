@@ -18,3 +18,5 @@ Rád sportuji a trávím čas s kamarády.
 
 ## Příroda
 
+Rád chodím na procházky a poznávám nová místa.
+
