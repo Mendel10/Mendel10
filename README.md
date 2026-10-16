@@ -1,16 +1,35 @@
-## Hi there 👋
+# Moje koníčky
 
-<!--
-**Mendel10/Mendel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vítej na mém projektu! Tady jsou moje oblíbené koníčky.
 
-Here are some ideas to get you started:
+## Hraní her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rád hraji počítačové hry.
+
+![Hry](images/games.jpg)
+
+Více informací: [Minecraft](https://www.minecraft.net/)
+
+## Sport
+
+Rád sportuji a trávím čas s kamarády.
+
+![Sport](images/sport.jpg)
+
+## Příroda
+
+Rád chodím na procházky a poznávám nová místa.
+
+![Příroda](images/nature.jpg)
+
+Inspirace na výlety: [Kudy z nudy](https://www.kudyznudy.cz/)
+
+## Moje oblíbené aktivity
+
+- Hraní her
+- Sport
+- Procházky v přírodě
+
+## Shrnutí
+
+Toto je můj první projekt na GitHubu. Učím se pracovat se soubory, obrázky a Markdownem.
