@@ -8,3 +8,5 @@ Rád hraji počítačové hry.
 
 ![Hry](images/games.jpg)
 
+Více informací: [Minecraft](https://www.minecraft.net/)
+
