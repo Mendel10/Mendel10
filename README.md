@@ -24,3 +24,12 @@ Rád chodím na procházky a poznávám nová místa.
 
 Inspirace na výlety: [Kudy z nudy](https://www.kudyznudy.cz/)
 
+## Moje oblíbené aktivity 
+
+- Hraní her
+- Sport
+- Procházky v přírodě
+
+## Shrnutí
+
+Toto je můj první projekt na GitHubu. Učím se pracovat se soubory, obrázky a Markdownem.
